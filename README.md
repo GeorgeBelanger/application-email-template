@@ -1,6 +1,6 @@
 ## 3/4/2019 Monday 8:30am Home
   - Making email html template for job applications
-    - Checked out a few templates. Settles on zen-flat found here 
+    - Checked out a few templates. Settles on zen-flat found here https://github.com/sendwithus/templates
     - Took the text from this email https://mayurmacwan.com/how-to-write-a-cover-email-for-job-application-bc8faefb31ef
     - Put the buttons and headlines into the progress file
     - Found out here how to put html into email on gmail https://www.youtube.com/watch?v=MsMSqhMlfao
